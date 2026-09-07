@@ -1,11 +1,11 @@
 {
  "date": "2026-09-07",
- "generated_at": "2026-09-07T05:11:34+00:00",
+ "generated_at": "2026-09-07T06:24:35+00:00",
  "underlying": "GLD",
  "spot": 406.77,
  "data_source": "CBOE",
  "calculation_version": "1.4.0",
- "quote_timestamp": 1788704467,
+ "quote_timestamp": 1788775237,
  "flip_method": "profile",
  "gamma_rank": "total",
  "expiration_used": "2026-09-08",
