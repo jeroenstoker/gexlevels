@@ -1,11 +1,11 @@
 {
  "date": "2026-09-09",
- "generated_at": "2026-09-09T06:19:32+00:00",
+ "generated_at": "2026-09-09T07:12:06+00:00",
  "underlying": "QQQ",
  "spot": 717.38,
  "data_source": "CBOE",
  "calculation_version": "1.4.0",
- "quote_timestamp": 1788940233,
+ "quote_timestamp": 1788949779,
  "flip_method": "profile",
  "gamma_rank": "total",
  "expiration_used": "2026-09-09",
