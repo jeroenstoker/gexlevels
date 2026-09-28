@@ -1,11 +1,11 @@
 {
  "date": "2026-09-28",
- "generated_at": "2026-09-28T04:15:03+00:00",
+ "generated_at": "2026-09-28T05:12:27+00:00",
  "underlying": "SPY",
  "spot": 771.35,
  "data_source": "CBOE",
  "calculation_version": "1.4.0",
- "quote_timestamp": 1790568529,
+ "quote_timestamp": 1790584343,
  "flip_method": "profile",
  "gamma_rank": "total",
  "expiration_used": "2026-09-28",
