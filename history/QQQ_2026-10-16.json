@@ -1,11 +1,11 @@
 {
  "date": "2026-10-16",
- "generated_at": "2026-10-16T07:13:58+00:00",
+ "generated_at": "2026-10-16T08:23:08+00:00",
  "underlying": "QQQ",
  "spot": 724.33,
  "data_source": "CBOE",
  "calculation_version": "1.4.0",
- "quote_timestamp": 1792148779,
+ "quote_timestamp": 1792151026,
  "flip_method": "profile",
  "gamma_rank": "total",
  "expiration_used": "2026-10-16",
@@ -46,14 +46,14 @@
   "correlated": [
    775.0,
    772.0,
-   775.79,
+   774.31,
    770.0,
    773.0,
    765.0,
+   760.0,
    780.0,
-   774.0,
    771.0,
-   768.0
+   774.0
   ]
  },
  "clusters": [
